@@ -1,0 +1,21 @@
+.my-nav
+{
+	background-color: black;
+}
+.my-nav li a
+{
+	color: white;
+}
+.my-footer
+{
+	background-color: black;
+	height: 400px;	
+}
+.my-footer h2
+{
+	color: white;
+}
+.center
+{
+	text-align: center;
+}
